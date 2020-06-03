@@ -1,0 +1,28 @@
+body{
+    background: white url("images/cab2.png");
+}
+
+
+.navbar{
+    border-radius: 0;
+}
+
+
+.navbar-brand{
+    font-family: 'Satisfy', cursive;
+}
+
+
+label.control-label {
+    font-family: 'cursive';
+}
+
+
+.navbar-toggler.toggler-example {
+    color:#212121;
+}
+
+
+.card {
+    min-height: 200px;
+}
